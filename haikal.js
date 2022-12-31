@@ -4624,17 +4624,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ^BUG BOT WAR INDONESIA^
 ^BY : ${botname}^
-██████████████████
-█▓███▓██▓█▓█▓█▓▓▓█
-█▓███▓██▓█▓▓██▓▓██
-█▓███▓▓█▓█▓█▓█▓▓▓█
-██████████████████
-█▓█▓██▓██▓▓█▓█▓███
-█▓▓▓█▓▓▓█▓██▓▓████
-█▓█▓█▓█▓█▓▓█▓█▓███
-██████████████████
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-#Emoji Terlarang Masih Project
+▬▭▬▭▬▭▬▬▭▬▭▬▬▭
+
 [ EMOJI TERLARANG ]
 ┏━━⊱
 ┣❏⚔️
